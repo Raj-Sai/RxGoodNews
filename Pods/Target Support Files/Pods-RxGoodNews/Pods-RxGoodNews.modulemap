@@ -1,0 +1,6 @@
+framework module Pods_RxGoodNews {
+  umbrella header "Pods-RxGoodNews-umbrella.h"
+
+  export *
+  module * { export * }
+}
